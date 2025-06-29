@@ -13,6 +13,6 @@ read more about QLoRA here: https://medium.com/@dillipprasad60/qlora-explained-a
 
 I have picked up Phi-3-3.8B from Microsoft as it's a small language model and performs very well on reasoning & conversational instruction based tasks.
 
-Refer the notebook. 
+Refer to the notebook. 
 
 Thank you - Ashwin 
